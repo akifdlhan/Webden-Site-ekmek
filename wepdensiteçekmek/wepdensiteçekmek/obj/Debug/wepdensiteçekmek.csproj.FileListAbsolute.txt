@@ -1,0 +1,11 @@
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\wepdensiteçekmek\wepdensiteçekmek\bin\Debug\wepdensiteçekmek.exe.config
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\wepdensiteçekmek\wepdensiteçekmek\bin\Debug\wepdensiteçekmek.exe
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\wepdensiteçekmek\wepdensiteçekmek\bin\Debug\wepdensiteçekmek.pdb
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\wepdensiteçekmek\wepdensiteçekmek\obj\Debug\wepdensiteçekmek.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\wepdensiteçekmek\wepdensiteçekmek\obj\Debug\wepdensiteçekmek.csproj.SuggestedBindingRedirects.cache
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\wepdensiteçekmek\wepdensiteçekmek\obj\Debug\wepdensiteçekmek.Form1.resources
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\wepdensiteçekmek\wepdensiteçekmek\obj\Debug\wepdensiteçekmek.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\wepdensiteçekmek\wepdensiteçekmek\obj\Debug\wepdensiteçekmek.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\wepdensiteçekmek\wepdensiteçekmek\obj\Debug\wepdensiteçekmek.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\wepdensiteçekmek\wepdensiteçekmek\obj\Debug\wepdensiteçekmek.exe
+C:\Users\MONSTER\Desktop\Form Örnekleri c#\wepdensiteçekmek\wepdensiteçekmek\obj\Debug\wepdensiteçekmek.pdb
